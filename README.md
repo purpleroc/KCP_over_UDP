@@ -43,4 +43,4 @@ go build -o server server.go
 ```
 
 ## Doc
-https://github.com/purpleroc/KCP_over_UDP/blob/main/kcp_over_udp.pdf
+https://mp.weixin.qq.com/s/8dn4eZptGeTipOFDyYInFA
