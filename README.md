@@ -2,7 +2,7 @@
 Demo for kcp over udp. 
 用于学习理解KCP协议，提供`libev`和`while`循环处理两种思路。
 
-========
+
 ## Complie
 
 ### Client
@@ -43,4 +43,4 @@ go build -o server server.go
 ```
 
 ## Doc
-https://github.com/purpleroc/KCP_over_UDP/kcp_over_udp.pdf
+https://github.com/purpleroc/KCP_over_UDP/blob/main/kcp_over_udp.pdf
